@@ -1,0 +1,15 @@
+{
+  "name": "multiplicar",
+  "version": "1.0.0",
+  "description": "proyecto tabla de multiplicar",
+  "main": "js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rocío Sáenz",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.1.1"
+  }
+}
